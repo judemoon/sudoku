@@ -8,4 +8,4 @@ A Sudoku consists of a 9x9 grid, and the objective is to fill the grid with digi
 
 ## Files
 - Sudoku_Project.ipynb: solution codes for the project
-- Sudoku_draft1.ipynb: Udacity AI Nanodegree Sudoku lecture notes
+- Sudoku_notes.ipynb: Udacity AI Nanodegree Sudoku lecture notes
